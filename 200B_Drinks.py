@@ -1,0 +1,1 @@
+def main():    n = int(input())    a = sum(list(map(int, input().split())))    print(a / n)if __name__ == '__main__':    main()
